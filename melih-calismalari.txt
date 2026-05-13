@@ -11,3 +11,7 @@ kapatmak istiyorum
 
 
 iyi bir Frontend Developer olmayı başaracağım
+
+
+güncelleme kısmını anladım ama fork kısmını anlamadım 
+daha doğrusu yapamadım ama çözücem.
