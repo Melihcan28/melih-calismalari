@@ -8,3 +8,6 @@ ben bu yazılımı yapamıyorum!
 Git ve Git-hub kısımlarının büyük kısımlarını anladım,
 ama hala eksiklerim var bunları da projeler yaparak 
 kapatmak istiyorum.
+
+
+iyi bir Frontend Developer olmayı başaracağım
