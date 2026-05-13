@@ -3,3 +3,8 @@ Bu benim kendi başıma yardım almadığım denemem.
 branch eklendi
 
 ben bu yazılımı yapamıyorum!
+
+
+Git ve Git-hub kısımlarının büyük kısımlarını anladım,
+ama hala eksiklerim var bunları da projeler yaparak 
+kapatmak istiyorum.
